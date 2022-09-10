@@ -109,6 +109,8 @@ class New_Employee:
 
     def set_confirmpassword(self, confrimpassword):
         self.driver.find_element(By.XPATH, self.txt_confirmpassword_xpath).send_keys(confrimpassword)
+    def click_save2(self):
+        self.driver.find_element(By.XPATH, self.btn_save_xpath).click()
     # search employee
     def click_search(self):
         self.driver.find_element(By.XPATH, self.btn_search_xpath).click()

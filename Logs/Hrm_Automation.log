@@ -108,3 +108,134 @@
 09/11/2022 12:23:21 AM: INFO: root: *******************Test_002_Login***********************
 09/11/2022 12:23:21 AM: INFO: root: *******************Verifying Login test ***********************
 09/11/2022 12:23:23 AM: INFO: root: *****************Home page test is passed*************************
+09/11/2022 12:32:11 AM: INFO: root: *******************Test_001_AddEmployee***********************
+09/11/2022 12:32:11 AM: INFO: root: *******************Verifying Login test ***********************
+09/11/2022 12:32:16 AM: INFO: root: *****************Home page test is passed*************************
+09/11/2022 12:32:20 AM: INFO: root: *******************Verifying Addemployee***********************
+09/11/2022 12:32:25 AM: INFO: root: ******************Login is successful**************************
+09/11/2022 12:32:31 AM: INFO: root: ******************PIM - Add employee is successful**************************
+09/11/2022 12:32:43 AM: INFO: root: ******************Admin Add employee login detail is successful**************************
+09/11/2022 12:32:43 AM: INFO: root: ******************Admin Add employee login detail is successful**************************
+09/11/2022 12:34:09 AM: INFO: root: *******************Test_001_AddEmployee***********************
+09/11/2022 12:34:09 AM: INFO: root: *******************Verifying Login test ***********************
+09/11/2022 12:34:14 AM: INFO: root: *****************Home page test is passed*************************
+09/11/2022 12:34:18 AM: INFO: root: *******************Verifying Addemployee***********************
+09/11/2022 12:34:24 AM: INFO: root: ******************Login is successful**************************
+09/11/2022 12:34:30 AM: INFO: root: ******************PIM - Add employee is successful**************************
+09/11/2022 12:34:42 AM: INFO: root: ******************Admin Add employee login detail is successful**************************
+09/11/2022 12:34:42 AM: INFO: root: ******************Admin Add employee login detail is successful**************************
+09/11/2022 12:54:07 AM: INFO: root: *******************Test_001_AddEmployee***********************
+09/11/2022 12:54:07 AM: INFO: root: *******************Verifying Login test ***********************
+09/11/2022 12:54:13 AM: INFO: root: *****************Home page test is passed*************************
+09/11/2022 12:54:17 AM: INFO: root: *******************Verifying Addemployee***********************
+09/11/2022 12:54:29 AM: INFO: root: ******************Login is successful**************************
+09/11/2022 12:54:36 AM: INFO: root: ******************PIM - Add employee is successful**************************
+09/11/2022 12:54:48 AM: INFO: root: ******************Admin Add employee login detail is successful**************************
+09/11/2022 12:54:48 AM: INFO: root: ******************Admin Add employee login detail is successful**************************
+09/11/2022 12:56:22 AM: INFO: root: *******************Test_001_AddEmployee***********************
+09/11/2022 12:56:22 AM: INFO: root: *******************Verifying Login test ***********************
+09/11/2022 12:56:30 AM: INFO: root: *****************Home page test is passed*************************
+09/11/2022 12:56:41 AM: INFO: root: *******************Verifying Addemployee***********************
+09/11/2022 12:56:48 AM: INFO: root: ******************Login is successful**************************
+09/11/2022 12:56:54 AM: INFO: root: ******************PIM - Add employee is successful**************************
+09/11/2022 12:57:06 AM: INFO: root: ******************Admin Add employee login detail is successful**************************
+09/11/2022 12:57:06 AM: INFO: root: ******************Admin Add employee login detail is successful**************************
+09/11/2022 12:58:30 AM: INFO: root: *******************Test_001_AddEmployee***********************
+09/11/2022 12:58:30 AM: INFO: root: *******************Verifying Login test ***********************
+09/11/2022 12:58:37 AM: INFO: root: *****************Home page test is passed*************************
+09/11/2022 12:58:43 AM: INFO: root: *******************Verifying Addemployee***********************
+09/11/2022 12:58:56 AM: INFO: root: ******************Login is successful**************************
+09/11/2022 12:59:04 AM: INFO: root: ******************PIM - Add employee is successful**************************
+09/11/2022 12:59:20 AM: INFO: root: ******************Admin Add employee login detail is successful**************************
+09/11/2022 12:59:20 AM: INFO: root: ******************Admin Add employee login detail is successful**************************
+09/11/2022 01:00:44 AM: INFO: root: *******************Test_001_AddEmployee***********************
+09/11/2022 01:00:44 AM: INFO: root: *******************Verifying Login test ***********************
+09/11/2022 01:00:48 AM: INFO: root: *****************Home page test is passed*************************
+09/11/2022 01:00:52 AM: INFO: root: *******************Verifying Addemployee***********************
+09/11/2022 01:01:01 AM: INFO: root: ******************Login is successful**************************
+09/11/2022 01:01:08 AM: INFO: root: ******************PIM - Add employee is successful**************************
+09/11/2022 01:01:25 AM: INFO: root: ******************Admin Add employee login detail is successful**************************
+09/11/2022 01:01:25 AM: INFO: root: ******************Admin Add employee login detail is successful**************************
+09/11/2022 01:04:27 AM: INFO: root: *******************Test_001_AddEmployee***********************
+09/11/2022 01:04:27 AM: INFO: root: *******************Verifying Login test ***********************
+09/11/2022 01:04:32 AM: INFO: root: *****************Home page test is passed*************************
+09/11/2022 01:04:37 AM: INFO: root: *******************Verifying Addemployee***********************
+09/11/2022 01:04:45 AM: INFO: root: ******************Login is successful**************************
+09/11/2022 01:04:52 AM: INFO: root: ******************PIM - Add employee is successful**************************
+09/11/2022 01:05:10 AM: INFO: root: ******************Admin Add employee login detail is successful**************************
+09/11/2022 01:05:10 AM: INFO: root: ******************Admin Add employee login detail is successful**************************
+09/11/2022 01:06:00 AM: INFO: root: *******************Test_001_AddEmployee***********************
+09/11/2022 01:06:00 AM: INFO: root: *******************Verifying Login test ***********************
+09/11/2022 01:06:04 AM: INFO: root: *****************Home page test is passed*************************
+09/11/2022 01:06:09 AM: INFO: root: *******************Verifying Addemployee***********************
+09/11/2022 01:06:15 AM: INFO: root: ******************Login is successful**************************
+09/11/2022 01:06:21 AM: INFO: root: ******************PIM - Add employee is successful**************************
+09/11/2022 01:06:38 AM: INFO: root: ******************Admin Add employee login detail is successful**************************
+09/11/2022 01:06:38 AM: INFO: root: ******************Admin Add employee login detail is successful**************************
+09/11/2022 01:08:28 AM: INFO: root: *******************Test_001_AddEmployee***********************
+09/11/2022 01:08:28 AM: INFO: root: *******************Verifying Login test ***********************
+09/11/2022 01:08:32 AM: INFO: root: *****************Home page test is passed*************************
+09/11/2022 01:08:36 AM: INFO: root: *******************Verifying Addemployee***********************
+09/11/2022 01:08:41 AM: INFO: root: ******************Login is successful**************************
+09/11/2022 01:08:48 AM: INFO: root: ******************PIM - Add employee is successful**************************
+09/11/2022 01:09:05 AM: INFO: root: ******************Admin Add employee login detail is successful**************************
+09/11/2022 01:09:05 AM: INFO: root: ******************Admin Add employee login detail is successful**************************
+09/11/2022 01:13:23 AM: INFO: root: *******************Test_001_AddEmployee***********************
+09/11/2022 01:13:23 AM: INFO: root: *******************Verifying Login test ***********************
+09/11/2022 01:13:29 AM: INFO: root: *****************Home page test is passed*************************
+09/11/2022 01:13:34 AM: INFO: root: *******************Verifying Addemployee***********************
+09/11/2022 01:13:40 AM: INFO: root: ******************Login is successful**************************
+09/11/2022 01:13:46 AM: INFO: root: ******************PIM - Add employee is successful**************************
+09/11/2022 01:14:03 AM: INFO: root: ******************Admin Add employee login detail is successful**************************
+09/11/2022 01:14:03 AM: INFO: root: ******************Admin Add employee login detail is successful**************************
+09/11/2022 01:15:36 AM: INFO: root: *******************Test_001_AddEmployee***********************
+09/11/2022 01:15:36 AM: INFO: root: *******************Verifying Login test ***********************
+09/11/2022 01:15:41 AM: INFO: root: *****************Home page test is passed*************************
+09/11/2022 01:15:45 AM: INFO: root: *******************Verifying Addemployee***********************
+09/11/2022 01:15:50 AM: INFO: root: ******************Login is successful**************************
+09/11/2022 01:15:56 AM: INFO: root: ******************PIM - Add employee is successful**************************
+09/11/2022 01:16:13 AM: INFO: root: ******************Admin Add employee login detail is successful**************************
+09/11/2022 01:16:13 AM: INFO: root: ******************Admin Add employee login detail is successful**************************
+09/11/2022 01:16:15 AM: INFO: root: ******************Search employee  detail is successful**************************
+09/11/2022 01:18:27 AM: INFO: root: *******************Test_001_AddEmployee***********************
+09/11/2022 01:18:27 AM: INFO: root: *******************Verifying Login test ***********************
+09/11/2022 01:18:31 AM: INFO: root: *****************Home page test is passed*************************
+09/11/2022 01:18:36 AM: INFO: root: *******************Verifying Addemployee***********************
+09/11/2022 01:18:42 AM: INFO: root: ******************Login is successful**************************
+09/11/2022 01:18:48 AM: INFO: root: ******************PIM - Add employee is successful**************************
+09/11/2022 01:19:05 AM: INFO: root: ******************Admin Add employee login detail is successful**************************
+09/11/2022 01:19:05 AM: INFO: root: ******************Admin Add employee login detail is successful**************************
+09/11/2022 01:20:11 AM: INFO: root: *******************Test_001_AddEmployee***********************
+09/11/2022 01:20:11 AM: INFO: root: *******************Verifying Login test ***********************
+09/11/2022 01:20:17 AM: INFO: root: *****************Home page test is passed*************************
+09/11/2022 01:20:20 AM: INFO: root: *******************Verifying Addemployee***********************
+09/11/2022 01:20:26 AM: INFO: root: ******************Login is successful**************************
+09/11/2022 01:20:32 AM: INFO: root: ******************PIM - Add employee is successful**************************
+09/11/2022 01:20:49 AM: INFO: root: ******************Admin Add employee login detail is successful**************************
+09/11/2022 01:20:49 AM: INFO: root: ******************Admin Add employee login detail is successful**************************
+09/11/2022 01:20:51 AM: INFO: root: ******************Search employee  detail is successful**************************
+09/11/2022 01:22:15 AM: INFO: root: *******************Test_001_AddEmployee***********************
+09/11/2022 01:22:15 AM: INFO: root: *******************Verifying Login test ***********************
+09/11/2022 01:22:19 AM: INFO: root: *****************Home page test is passed*************************
+09/11/2022 01:22:23 AM: INFO: root: *******************Verifying Addemployee***********************
+09/11/2022 01:22:29 AM: INFO: root: ******************Login is successful**************************
+09/11/2022 01:22:34 AM: INFO: root: ******************PIM - Add employee is successful**************************
+09/11/2022 01:22:44 AM: INFO: root: ******************Admin Add employee login detail is successful**************************
+09/11/2022 01:22:44 AM: INFO: root: ******************Admin Add employee login detail is successful**************************
+09/11/2022 01:23:09 AM: INFO: root: *******************Test_001_AddEmployee***********************
+09/11/2022 01:23:09 AM: INFO: root: *******************Verifying Login test ***********************
+09/11/2022 01:23:14 AM: INFO: root: *****************Home page test is passed*************************
+09/11/2022 01:23:17 AM: INFO: root: *******************Verifying Addemployee***********************
+09/11/2022 01:23:23 AM: INFO: root: ******************Login is successful**************************
+09/11/2022 01:23:29 AM: INFO: root: ******************PIM - Add employee is successful**************************
+09/11/2022 01:23:44 AM: INFO: root: ******************Admin Add employee login detail is successful**************************
+09/11/2022 01:23:44 AM: INFO: root: ******************Admin Add employee login detail is successful**************************
+09/11/2022 01:25:19 AM: INFO: root: *******************Test_001_AddEmployee***********************
+09/11/2022 01:25:19 AM: INFO: root: *******************Verifying Login test ***********************
+09/11/2022 01:25:23 AM: INFO: root: *****************Home page test is passed*************************
+09/11/2022 01:25:27 AM: INFO: root: *******************Verifying Addemployee***********************
+09/11/2022 01:25:33 AM: INFO: root: ******************Login is successful**************************
+09/11/2022 01:25:38 AM: INFO: root: ******************PIM - Add employee is successful**************************
+09/11/2022 01:25:55 AM: INFO: root: ******************Admin Add employee login detail is successful**************************
+09/11/2022 01:25:55 AM: INFO: root: ******************Admin Add employee login detail is successful**************************
+09/11/2022 01:25:58 AM: INFO: root: ******************Search employee  detail is successful**************************

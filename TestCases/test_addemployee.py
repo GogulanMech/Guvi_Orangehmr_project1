@@ -9,7 +9,7 @@ class Test_001_AddEmployee:
     username = ReadConfig.get_username()
     password = ReadConfig.get_password()
     newusername = ReadConfig.get_newusername()
-    newpassword = ReadConfig.get_newusername()
+    newpassword = ReadConfig.get_newpassword()
     logger = logger.loggen()
 
     def test_login(self, setup):
@@ -62,9 +62,10 @@ class Test_001_AddEmployee:
         time.sleep(2)
         emp.set_newusername(self.newusername)
         emp.set_newpassword(self.newpassword)
-        emp.set_newpassword(self.newpassword)
-        emp.click_save()
+        emp.set_confirmpassword(self.newpassword)
         time.sleep(2)
+        emp.click_save2()
+        time.sleep(5)
         self.logger.info("******************Admin Add employee login detail is successful**************************")
         self.logger.info("******************Admin Add employee login detail is successful**************************")
         emp.set_newusername(self.newusername)

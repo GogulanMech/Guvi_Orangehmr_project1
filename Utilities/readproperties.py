@@ -22,4 +22,5 @@ class ReadConfig:
         return username
     @staticmethod
     def get_newpassword():
-        password = config.get("common info", "password2")
+        newpassword = config.get("common info", "password2")
+        return newpassword

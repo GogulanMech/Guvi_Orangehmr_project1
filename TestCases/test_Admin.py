@@ -27,6 +27,8 @@ class Test_002_Admin:
         emp.set_password(self.password)
         emp.click_login()
         self.logger.info("******************Login is successful**************************")
+
+        # Code for Entering Admin To Detail
         self.logger.info("*******************Verifying Admin test ***********************")
         emp.click_admin()
         emp.click_add()
@@ -48,8 +50,9 @@ class Test_002_Admin:
         else:
             self.logger.error("******************Admin Add employee login detail is failed**************************")
             driver.save_screenshot("Screenshots/Test_001_Admin_logindetail.png")
+        time.sleep(3)
 
-        time.sleep(5)
+        # Code for Verifying User To Detail
         self.logger.info("******************Verifying Admin Add employee login detail**************************")
         emp.set_newusername(self.newusername)
         emp.click_search()

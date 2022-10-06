@@ -23,8 +23,8 @@ def browser(request):
 
 
 # HTML-Report
-# def pytest_configure(config):
-#     config._metadata["project Name"] = "Orange HRM"
-#     config._metadata["Module"] = "Add Employee"
-#     config._metadata["Tester"] = "Gogulan Murugesan"
+def pytest_configure(config):
+    config._metadata["project Name"] = "Orange HRM"
+    config._metadata["Module"] = "Add Employee"
+    config._metadata["Tester"] = "Gogulan Murugesan"
 

@@ -1,7 +1,7 @@
 import logging
 
 
-class logger():
+class logger:
     @staticmethod
     def loggen():
         logger = logging.getLogger()

@@ -335,6 +335,7 @@ class Test_001_PIM:
         else:
             self.logger.error("******************PIM - Skill Details is failed**************************")
             driver.save_screenshot("Screenshots/Test_001_skill_detail.png")
+            driver.get_screenshot_as_png()
             status.append(False)
 
         pim.set_qualification_language("English", "Reading", "Good", "I Know Tamil Very well")

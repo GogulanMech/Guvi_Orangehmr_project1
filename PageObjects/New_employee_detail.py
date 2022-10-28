@@ -191,7 +191,7 @@ class New_Employee_Detail:
                     s.click()
                     break
         except:
-            print(" Personal - Nationality  is invalid")
+            print(" Personal - Marital_status  is invalid")
 
         self.driver.find_element(By.XPATH, self.txt_dob_xpath).send_keys(dob)
         if gender == "Male" or gender == "male":
@@ -213,7 +213,7 @@ class New_Employee_Detail:
     def set_nickname(self, name="gogul"):
         self.driver.find_element(By.XPATH, self.txt_nickname_xpath).send_keys(name)
 
-    def set_ssn_sin_number(self, ssn="545664",sin="123456"):
+    def set_ssn_sin_number(self, ssn="545664", sin="123456"):
         self.driver.find_element(By.XPATH, self.txt_ssnnumber_xpath).send_keys(ssn)
         self.driver.find_element(By.XPATH, self.txt_sinnumber_xpath).send_keys(sin)
 

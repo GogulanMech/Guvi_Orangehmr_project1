@@ -631,3 +631,87 @@
 14/09/2022 04:57:07 PM: INFO: root: *******************Verifying Login test ***********************
 14/09/2022 04:57:10 PM: INFO: root: *****************Home page test is passed*************************
 14/09/2022 04:57:10 PM: INFO: root: *******************Ending Test_003_Login*******************
+19/09/2022 09:14:42 PM: INFO: root: *******************Test_001_PIM***********************
+19/09/2022 09:14:42 PM: INFO: root: *******************Verifying Login test ***********************
+19/09/2022 09:14:43 PM: INFO: root: ******************Login is successful**************************
+19/09/2022 09:14:43 PM: INFO: root: ******************PIM - Verifying New Employee Details**************************
+19/09/2022 09:14:50 PM: INFO: root: ******************PIM - Add employee is successful**************************
+19/09/2022 09:14:50 PM: INFO: root: ******************PIM - Verifying Personal Details**************************
+19/09/2022 09:15:10 PM: INFO: root: *******************Test_001_PIM***********************
+19/09/2022 09:15:10 PM: INFO: root: *******************Verifying Login test ***********************
+19/09/2022 09:15:11 PM: INFO: root: ******************Login is successful**************************
+19/09/2022 09:15:11 PM: INFO: root: ******************PIM - Verifying New Employee Details**************************
+19/09/2022 09:15:23 PM: INFO: root: ******************PIM - Add employee is successful**************************
+19/09/2022 09:15:23 PM: INFO: root: ******************PIM - Verifying Personal Details**************************
+19/09/2022 09:15:32 PM: INFO: root: ******************PIM - Personal Details is successful**************************
+19/09/2022 09:15:33 PM: INFO: root: ******************PIM - Personal Blood Group is successful**************************
+19/09/2022 09:15:34 PM: INFO: root: ******************PIM - Personal Attachment is successful**************************
+19/09/2022 09:15:36 PM: INFO: root: ******************PIM - Verifying Contact Details**************************
+19/09/2022 09:15:47 PM: ERROR: root: ******************PIM - Contact Details is failed**************************
+19/09/2022 09:15:50 PM: ERROR: root: ******************PIM - Contact Attachment is failed**************************
+19/09/2022 09:16:16 PM: INFO: root: ******************PIM - Verifying Emergency Details**************************
+19/09/2022 09:16:23 PM: INFO: root: ******************PIM - Emergency Details is successful**************************
+19/09/2022 09:16:24 PM: INFO: root: ******************PIM - Emergency Attachment is successful**************************
+19/09/2022 09:16:27 PM: INFO: root: ******************PIM - Verifying Dependents Details**************************
+19/09/2022 09:16:32 PM: INFO: root: ******************PIM - Dependents Details is successful**************************
+19/09/2022 09:16:33 PM: INFO: root: ******************PIM - Dependents Attachment is successful**************************
+19/09/2022 09:16:36 PM: INFO: root: ******************PIM - Verifying Immigration Details**************************
+19/09/2022 09:16:43 PM: ERROR: root: ******************PIM - Immigration Details is failed**************************
+19/09/2022 09:16:48 PM: ERROR: root: ******************PIM - Immigration Attachment is failed**************************
+19/09/2022 09:16:54 PM: INFO: root: ******************PIM - Verifying Job Details**************************
+19/09/2022 09:16:58 PM: ERROR: root: ******************PIM - Job Details is failed**************************
+19/09/2022 09:17:04 PM: INFO: root: ******************PIM - Verifying Salary Details**************************
+19/09/2022 09:17:07 PM: ERROR: root: ******************PIM - Salary Details is failed**************************
+19/09/2022 09:17:08 PM: INFO: root: ******************PIM - Salary Attachment is successful**************************
+19/09/2022 09:17:11 PM: INFO: root: ******************PIM - Verifying Tax Exemption Details**************************
+19/09/2022 09:17:16 PM: ERROR: root: ******************PIM - Tax Exemption Details is failed**************************
+19/09/2022 09:17:17 PM: INFO: root: ******************PIM - Tax Exemption Attachment is successful**************************
+19/09/2022 09:17:20 PM: INFO: root: ******************PIM - Verifying Report To Details**************************
+06/10/2022 03:17:17 PM: INFO: root: *******************Test_003_Login***********************
+06/10/2022 03:17:17 PM: INFO: root: *******************Verifying Login test ***********************
+06/10/2022 03:17:19 PM: INFO: root: *****************Home page test is passed*************************
+06/10/2022 03:17:19 PM: INFO: root: *******************Ending Test_003_Login*******************
+27/10/2022 10:09:26 PM: INFO: root: *******************Test_001_PIM***********************
+27/10/2022 10:09:26 PM: INFO: root: *******************Verifying Login test ***********************
+27/10/2022 10:09:28 PM: INFO: root: ******************Login is successful**************************
+27/10/2022 10:09:28 PM: INFO: root: ******************PIM - Verifying New Employee Details**************************
+27/10/2022 10:09:38 PM: INFO: root: ******************PIM - Add employee is successful**************************
+27/10/2022 10:09:38 PM: INFO: root: ******************PIM - Verifying Personal Details**************************
+27/10/2022 10:09:49 PM: INFO: root: ******************PIM - Personal Details is successful**************************
+27/10/2022 10:09:51 PM: INFO: root: ******************PIM - Personal Blood Group is successful**************************
+27/10/2022 10:09:52 PM: INFO: root: ******************PIM - Personal Attachment is successful**************************
+27/10/2022 10:09:54 PM: INFO: root: ******************PIM - Verifying Contact Details**************************
+27/10/2022 10:10:07 PM: ERROR: root: ******************PIM - Contact Details is failed**************************
+27/10/2022 10:10:11 PM: INFO: root: ******************PIM - Contact Attachment is successful**************************
+27/10/2022 10:10:16 PM: INFO: root: ******************PIM - Verifying Emergency Details**************************
+27/10/2022 10:10:22 PM: INFO: root: ******************PIM - Emergency Details is successful**************************
+27/10/2022 10:10:23 PM: INFO: root: ******************PIM - Emergency Attachment is successful**************************
+27/10/2022 10:10:26 PM: INFO: root: ******************PIM - Verifying Dependents Details**************************
+27/10/2022 10:10:32 PM: INFO: root: ******************PIM - Dependents Details is successful**************************
+27/10/2022 10:10:34 PM: INFO: root: ******************PIM - Dependents Attachment is successful**************************
+27/10/2022 10:10:37 PM: INFO: root: ******************PIM - Verifying Immigration Details**************************
+27/10/2022 10:10:46 PM: INFO: root: ******************PIM - Immigration Details is successful**************************
+27/10/2022 10:10:50 PM: INFO: root: ******************PIM - Immigration Attachment is successful**************************
+27/10/2022 10:10:55 PM: INFO: root: ******************PIM - Verifying Job Details**************************
+27/10/2022 10:11:00 PM: INFO: root: ******************PIM - Job Details is successful**************************
+27/10/2022 10:11:05 PM: INFO: root: ******************PIM - Verifying Salary Details**************************
+27/10/2022 10:11:10 PM: INFO: root: ******************PIM - Salary Details is successful**************************
+27/10/2022 10:11:10 PM: INFO: root: ******************PIM - Salary Attachment is successful**************************
+27/10/2022 10:11:13 PM: INFO: root: ******************PIM - Verifying Tax Exemption Details**************************
+27/10/2022 10:11:17 PM: INFO: root: ******************PIM - Tax Exemption Details is successful**************************
+27/10/2022 10:11:17 PM: INFO: root: ******************PIM - Tax Exemption Attachment is successful**************************
+27/10/2022 10:11:20 PM: INFO: root: ******************PIM - Verifying Report To Details**************************
+27/10/2022 10:11:29 PM: INFO: root: ******************PIM - Report To Details is successful**************************
+27/10/2022 10:11:33 PM: INFO: root: ******************PIM - Report To Attachment is successful**************************
+27/10/2022 10:11:38 PM: INFO: root: ******************PIM - Verifying Qualification Details**************************
+27/10/2022 10:11:43 PM: INFO: root: ******************PIM - Experience Details is successful**************************
+27/10/2022 10:11:48 PM: INFO: root: ******************PIM - Education Details is successful**************************
+27/10/2022 10:11:53 PM: INFO: root: ******************PIM - Skill Details is successful**************************
+27/10/2022 10:11:58 PM: INFO: root: ******************PIM - Language Details is successful**************************
+27/10/2022 10:12:02 PM: INFO: root: ******************PIM - Licence Details is successful**************************
+27/10/2022 10:12:03 PM: INFO: root: ******************PIM - Q-Attachment Details is successful**************************
+27/10/2022 10:12:08 PM: INFO: root: ******************PIM - Verifying Membership Details**************************
+27/10/2022 10:12:16 PM: INFO: root: ******************PIM - Membership Details is successful**************************
+27/10/2022 10:12:16 PM: INFO: root: ******************PIM - Membership-attach Details is successful*************************
+27/10/2022 10:12:21 PM: ERROR: root: ****************** Test_001_PIM Add New Employee Detail  is failed*********************
+27/10/2022 10:12:21 PM: INFO: root: *******************Ending Test_001_PIM*******************

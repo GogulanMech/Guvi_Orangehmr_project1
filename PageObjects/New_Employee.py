@@ -7,7 +7,7 @@ class New_Employee:
     txt_password_name = 'password'
     btn_login_tagname = "button"
     # PIM
-    list_pim_xpath = "//a[@class='oxd-main-menu-item active']"
+    list_pim_xpath = "//span[text()='PIM']"
     # create new employee
     btn_add_xpath = '//button[@class="oxd-button oxd-button--medium oxd-button--secondary"]'
     txt_firstname_name = "firstName"
